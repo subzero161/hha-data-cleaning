@@ -58,4 +58,4 @@ slm['modality_inperson'] = np.where(slm["Learning_Modality"] == 'In Person', Tru
 # confirm the new column and that it is a boolean
 slm.dtypes
 
-slm.to_csv(hha-data-cleaning/data/School_Learning_Modatilities_CleanVersion.csv)
+slm.to_csv('hha-data-cleaning/data/School_Learning_Modatilities_CleanVersion.csv')
