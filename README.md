@@ -1,5 +1,5 @@
 # hha-data-cleaning
-Assignment 2, HHA 507
+Assignment 2, HHA 507, AHI, SHP, Stony Brook University
 
 # Assignment Checklist
 1.     Loads the data into python
@@ -25,7 +25,7 @@ Assignment 2, HHA 507
 9.     Assess missingness (count of missing values per column)
 
 
-10.  New data field: attempt to create a new column called modality_inperson.  This column should contain a binary value of true or false. Try to write a function that takes in the old column name (learning modality), and recodes the value for a specific row to true, if the learning modality value is ‘in-person’, and recodes it to false if the value is either ‘remote’ or ‘hybrid’
+10.    New data field: attempt to create a new column called modality_inperson.  This column should contain a binary value of true or false. Try to write a function that takes in the old column name (learning modality), and recodes the value for a specific row to true, if the learning modality value is ‘in-person’, and recodes it to false if the value is either ‘remote’ or ‘hybrid’
 
            
 
